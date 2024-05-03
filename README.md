@@ -19,3 +19,6 @@ npm run dev
 See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#loading-the-extension
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
+
+https://github.com/ayusharma-ctrl/LinkedIn-AI-Writer-Extension/assets/117670536/a3c8c634-ec1b-457b-9d31-1a340d584c2a
+
